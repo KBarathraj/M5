@@ -7,7 +7,6 @@ Write a C program to convert a 23.65 into 25 using pointer
 2.	Declare a pointer to double to point to the address of the variable.
 3.	Use the pointer to modify the value to 25.0.
 4.	Print the modified value.
-5.	
 ## PROGRAM:
 ```
 #include <stdio.h>
